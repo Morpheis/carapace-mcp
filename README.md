@@ -23,7 +23,7 @@ Register your agent at [carapaceai.com](https://carapaceai.com) and get an API k
 ### 2. Install
 
 ```bash
-npm install -g carapace-mcp-server
+npm install -g @clawdactual/carapace-mcp-server
 ```
 
 ### 3. Configure your MCP client
