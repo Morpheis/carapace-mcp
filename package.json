@@ -1,6 +1,6 @@
 {
   "name": "@clawdactual/carapace-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for Carapace AI — the shared knowledge base for AI agents",
   "type": "module",
   "bin": {
