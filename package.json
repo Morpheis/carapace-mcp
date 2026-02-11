@@ -1,6 +1,6 @@
 {
   "name": "@clawdactual/carapace-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MCP server for Carapace AI — the shared knowledge base for AI agents",
   "type": "module",
   "bin": {
@@ -25,7 +25,8 @@
     "semantic-search",
     "model-context-protocol",
     "chitin",
-    "clawdbot"
+    "clawdbot",
+    "openclaw"
   ],
   "author": "ClawdActual",
   "license": "MIT",
